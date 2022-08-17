@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  msa-xrengine:
+  - apiVersion: v2
+    appVersion: 0.5.6
+    created: "2022-08-17T18:27:40.504742741Z"
+    description: A Helm chart for Kubernetes
+    digest: f9edad960307e5876f7b41d99ac8380fc897a631ac42701fd837493099dfd2f2
+    icon: https://avatars3.githubusercontent.com/u/61642798
+    name: msa-xrengine
+    type: application
+    urls:
+    - msa-xrengine-4.1.0.tgz
+    version: 4.1.0
+  msa-xrengine-builder:
+  - apiVersion: v2
+    appVersion: 0.5.6
+    created: "2022-08-17T18:27:40.506092907Z"
+    description: A Helm chart for Kubernetes
+    digest: 71615e008fe0693897df55347f8736cabe8c0897b280d124fd3081c3ed5103ed
+    icon: https://avatars3.githubusercontent.com/u/61642798
+    name: msa-xrengine-builder
+    type: application
+    urls:
+    - msa-xrengine-builder-4.1.0.tgz
+    version: 4.1.0
+generated: "2022-08-17T18:27:40.500216018Z"
